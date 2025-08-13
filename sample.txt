@@ -1,4 +1,0 @@
-working through organization
-adding code lines by member and pushing into repo
-b1: Owner created branch b1
-this is sample
